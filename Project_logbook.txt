@@ -1,0 +1,3 @@
+Line 1: The Generative AI research project has started.
+Line 2: The research team is collecting data.
+Line 3: The initial data analysis is in progress.
